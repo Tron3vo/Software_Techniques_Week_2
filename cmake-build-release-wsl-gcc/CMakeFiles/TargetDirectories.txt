@@ -1,0 +1,3 @@
+/mnt/c/Users/tautv/OneDrive/Documents/.Saxion/Advanced Programming Concepts/Software_Techniques_Week_2/cmake-build-release-wsl-gcc/CMakeFiles/Software_Techniques_Week_2.dir
+/mnt/c/Users/tautv/OneDrive/Documents/.Saxion/Advanced Programming Concepts/Software_Techniques_Week_2/cmake-build-release-wsl-gcc/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tautv/OneDrive/Documents/.Saxion/Advanced Programming Concepts/Software_Techniques_Week_2/cmake-build-release-wsl-gcc/CMakeFiles/rebuild_cache.dir

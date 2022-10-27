@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g CMakeFiles/Software_Techniques_Week_2.dir/addition.cpp.o CMakeFiles/Software_Techniques_Week_2.dir/main.cpp.o CMakeFiles/Software_Techniques_Week_2.dir/multiplication.cpp.o CMakeFiles/Software_Techniques_Week_2.dir/subtraction.cpp.o -o Software_Techniques_Week_2 

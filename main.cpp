@@ -2,6 +2,9 @@
 #include "operation.h"
 #include "addition.h"
 
+/// @author Tautvydas Barauskis (Student ID: 511325)
+/// @version 1.1
+
 int main() {
     using namespace std::complex_literals;
 
